@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ *_strlen
+ *@s: string
+ *Rturn: length
+ */
 int _strlen(char *s)
 {
 	int len = 0;
